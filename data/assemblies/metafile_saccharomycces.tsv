@@ -1,10 +1,10 @@
-species                     accession           short_name
-Saccharomyces_cerevisiae    GCF_000146045.2     cerevisiae
-Saccharomyces_paradoxus     GCF_002079055.1     paradoxus
-Saccharomyces_kudriavzevii  GCF_947243775.1     kudriavzevii
-Saccharomyces_mikatae       GCF_947241705.1     mikatae
-Saccharomyces_uvarum        GCA_947243795.1     uvarum
-Saccharomyces_bayanus       GCA_019431265.1     bayanus
-Saccharomyces_jurei         GCA_900290405.1     jurei
-Saccharomyces_pastorianus   GCA_011022315.1     pastorianus
-Saccharomyces_eubayanus     GCF_001298625.1     eubayanus
+#species_name	link
+Saccharomyces_cerevisiae	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/146/045/GCF_000146045.2_R64/GCF_000146045.2_R64_genomic.fna.gz
+Saccharomyces_paradoxus	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/079/055/GCF_002079055.1_ASM207905v1/GCF_002079055.1_ASM207905v1_genomic.fna.gz
+Saccharomyces_kudriavzevii	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/947/243/775/GCF_947243775.1_ASM94724377v1/GCF_947243775.1_ASM94724377v1_genomic.fna.gz
+Saccharomyces_mikatae	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/947/241/705/GCF_947241705.1_ASM94724170v1/GCF_947241705.1_ASM94724170v1_genomic.fna.gz
+Saccharomyces_uvarum	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/243/795/GCA_947243795.1_ASM94724379v1/GCA_947243795.1_ASM94724379v1_genomic.fna.gz
+Saccharomyces_bayanus	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/431/265/GCA_019431265.1_ASM1943126v1/GCA_019431265.1_ASM1943126v1_genomic.fna.gz
+Saccharomyces_jurei	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/290/405/GCA_900290405.1_Sj_Genome_Assembly_1.0/GCA_900290405.1_Sj_Genome_Assembly_1.0_genomic.fna.gz
+Saccharomyces_pastorianus	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/022/315/GCA_011022315.1_ASM1102231v1/GCA_011022315.1_ASM1102231v1_genomic.fna.gz
+Saccharomyces_eubayanus	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/298/625/GCF_001298625.1_ASM129862v1/GCF_001298625.1_ASM129862v1_genomic.fna.gz
