@@ -1,0 +1,16 @@
+name: genome-compare
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.10
+  - biopython
+  - samtools
+  - minimap2
+  - bedtools
+  - bcftools
+  - matplotlib
+  - seaborn
+  - pandas
+  - snakemake
+  - ncbi-datasets-cli
