@@ -1,10 +1,10 @@
-# 🧬 Genome Compare
+# Genome Compare
 
 A modular and customizable pipeline for comparing genome assemblies of different species aligned to a single reference. This project enables the detection of homologous regions and shared genomic variants, aiming to explore interspecific differences with population-level tools.
 
 ---
 
-## 🧪 Example Species
+## Example Species
 
 The following *Saccharomyces* species are used as test cases in this project:
 
@@ -22,7 +22,7 @@ The following *Saccharomyces* species are used as test cases in this project:
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 genome-compare-saccharomyces/
