@@ -28,7 +28,6 @@ The following *Saccharomyces* species are used as test cases in this project:
 genome-compare-saccharomyces/
 ├── data/
 │   ├── assemblies/           # All .fna genome files
-│   └── reference/            # Reference genome (e.g., cerevisiae.fna)
 ├── env/
 │   └── environment.yml       # Conda environment file
 ├── results/
